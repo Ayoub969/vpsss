@@ -61,7 +61,7 @@ echo "##########################################################################
       wget -O $ROOTFS_DIR/home/container/.bashrc \
       "https://github.com/abdalla435/VPS-Pterodactyl-EGG/raw/main/.bashrc"
       wget -O $ROOTFS_DIR/home/container/style.sh \
-      "https://raw.githubusercontent.com/Ayoub969/vpsss/main/vps.sh"
+      "https://github.com/Ayoub969/vpsss/raw/main/vps.sh"
       ;;
 
     1)
@@ -75,7 +75,7 @@ echo "##########################################################################
       wget -O $ROOTFS_DIR/home/container/.bashrc \
       "https://github.com/abdalla435/VPS-Pterodactyl-EGG/raw/main/.bashrc"
       wget -O $ROOTFS_DIR/home/container/style.sh \
-      "https://raw.githubusercontent.com/Ayoub969/vpsss/main/vps.sh"
+      "https://github.com/Ayoub969/vpsss/raw/main/vps.sh"
       ;;
 
     2)
@@ -89,7 +89,7 @@ echo "##########################################################################
       wget -O $ROOTFS_DIR/home/container/.bashrc \
       "https://github.com/abdalla435/VPS-Pterodactyl-EGG/raw/main/.bashrc"
       wget -O $ROOTFS_DIR/home/container/style.sh \
-      "https://raw.githubusercontent.com/Ayoub969/vpsss/main/vps.sh"
+      "https://github.com/Ayoub969/vpsss/raw/main/vps.sh"
       ;;
 
     *)
