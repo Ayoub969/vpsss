@@ -61,7 +61,7 @@ echo "##########################################################################
       wget -O $ROOTFS_DIR/home/container/.bashrc \
       "https://github.com/abdalla435/VPS-Pterodactyl-EGG/raw/main/.bashrc"
       wget -O $ROOTFS_DIR/home/container/style.sh \
-      "https://github.com/abdalla435/VPS-Pterodactyl-EGG/raw/main/style.sh"
+      "https://raw.githubusercontent.com/Ayoub969/vpsss/main/vps.sh"
       ;;
 
     1)
